@@ -1,0 +1,42 @@
+body{
+    background-color:blue;
+}
+*{
+    margin:0;
+    padding: 0;
+
+}
+.contaner{
+    text-align: center;
+}
+.dice{
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 0 rgb(233, 9, 207);
+    font-size: 80px;
+    color: rgb(12, 248, 94);
+}
+.dice{
+    margin-top: 20px;
+    font-size: 40px;
+    color: aqua;
+}
+button{
+    
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color:rgb(221, 86, 86);
+    border: none;
+}
+button:hover{
+    background-color: rgb(207, 19, 224);
+    cursor:grab;
+    border: none;
+}
+img{
+    width: 300px;
+}
